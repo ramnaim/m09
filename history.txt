@@ -1,0 +1,500 @@
+   39  nmap loalhost
+   40  nmap localhost
+   41  clear
+   42  reboot
+   43  reboot
+   44  google-meet-desktop 
+   45  clea
+   46  yay -R google-meet-desktop 
+   47  clear
+   48  google-meet-desktop 
+   49  clear
+   50  code .
+   51  sudo pacman -Syu 
+   52  reboot
+   53  reboot
+   54  code .
+   55  reboot
+   56  sudo reboot
+   57  clear
+   58  exit
+   59  sudo pacman -Syu inkscape
+   60  clear
+   61   inkscape
+   62  reboot
+   63  poweroff
+   64  reboot
+   65  sudo pacman -S bluez
+   66  clear
+   67  sudo pacman -S bluez Utils
+   68  sudo pacman -S bluez-utils
+   69  clear
+   70  sudo pacman -S blueman 
+   71  clear
+   72  reboot
+   73  sudo systemctl start bluetooth.service
+   74  sudo vim /etc/bluetooth/main.con
+   75  sudo nano /etc/bluetooth/main.con
+   76  sudo nano /etc/bluetooth/main.conf
+   77  reboot
+   78  sudo systemctl start bluetooth.service
+   79  sudo systemctl status bluetooth.service
+   80  clear
+   81  sudo systemctl enable bluetooth.service
+   82  clear
+   83  reboot
+   84  sudo reboot
+   85  sudo pacman -Syu
+   86  sudo pacman -Syu
+   87  clear
+   88  reboot
+   89  sudo pacman -Syu
+   90  java -version
+   91  clear
+   92  netbeans 
+   93  clear
+   94  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+   95  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+   96  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+   97  11
+   98  clear
+   99  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  100  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  101  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  102  clear
+  103  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  104  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  105  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  106  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  107  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  108  code .
+  109   /usr/bin/env /bin/python /home/miguel/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 43803 -- /home/miguel/Documents/WorkSpace/python/primos.py 
+  110  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  111  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  112  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  113  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  114  clear
+  115  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  116  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  117  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  118  clear
+  119  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  120  /bin/python /home/miguel/Documents/WorkSpace/python/primos.py
+  121  clear
+  122  vlan
+  123  sudo pacman -Syu vlan
+  124  yay -S vlan
+  125  clear
+  126  yay -S vlc
+  127  sudo pacman -Syu vlc
+  128  clear
+  129  sudo pacman -Syu
+  130  clear
+  131  reboot
+  132  code .
+  133  /bin/python /home/miguel/Documents/WorkSpace/python/seriFibonacci.py
+  134  /bin/python /home/miguel/Documents/WorkSpace/python/seriFibonacci.py
+  135  /bin/python /home/miguel/Documents/WorkSpace/python/seriFibonacci.py
+  136  /bin/python /home/miguel/Documents/WorkSpace/python/seriFibonacci.py
+  137  /bin/python /home/miguel/Documents/WorkSpace/python/seriFibonacci.py
+  138  reboot
+  139  code .
+  140  reboot
+  141  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  142  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  143  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  144  python
+  145  sudo pacman -Syu pytthon
+  146  clear
+  147  python
+  148  clear
+  149  python
+  150  clear
+  151  python
+  152  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  153  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  154  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  155  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  156  clear
+  157  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  158  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  159  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  160  /bin/python /home/miguel/Documents/WorkSpace/python/palabra.py
+  161  /bin/python /home/miguel/Documents/WorkSpace/python/palabra.py
+  162  python palabra.py
+  163  code .
+  164  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  165  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  166  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  167  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  168  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  169  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  170  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  171  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  172  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  173  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  174  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  175  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  176  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  177  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  178  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  179  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  180  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  181  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  182  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  183  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  184  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  185  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  186  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  187  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  188  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  189  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  190  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  191  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  192  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  193  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  194  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  195  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  196  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  197  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  198  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  199  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  200  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  201  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  202  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  203  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  204  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  205  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  206  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  207  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  208  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  209  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  210  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  211  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  212  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  213  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  214  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  215  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  216  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  217  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  218  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  219  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  220  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  221  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  222  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  223  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  224  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  225  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  226  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  227  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  228  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  229  clear
+  230  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  231  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  232  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  233  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  234  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  235  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  236  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  237  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  238  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  239  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  240  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  241  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  242  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  243  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  244  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  245  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  246  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  247  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  248  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  249  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  250  clear
+  251  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  252  python
+  253  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  254  python main.py
+  255  python main.py
+  256  clear
+  257  /bin/python /home/miguel/Documents/WorkSpace/python/main.py
+  258  clear
+  259  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  260  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  261  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  262  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  263  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  264  clear
+  265  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  266  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  267  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  268  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  269  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  270  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  271  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  272  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  273  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  274  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  275  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  276  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  277  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  278  clear
+  279  /bin/python /home/miguel/Documents/WorkSpace/python/ejemplo.py
+  280  python
+  281  python
+  282  python
+  283  python
+  284  python
+  285  reboot
+  286  sudo pacman -Syu
+  287  yay
+  288  clear
+  289  zoom
+  290  zoom-client 
+  291  clear
+  292  sudo pacman -Syu
+  293  yay
+  294  clear
+  295  code .
+  296  zeal
+  297  reboot
+  298  yay -R telegram-desktop 
+  299  clear
+  300  tele
+  301  clear
+  302  sudo pacman -Syu telegram-desktop
+  303  clear
+  304  telegram-desktop 
+  305  sudo pacman -R telegram-desktop
+  306  clear
+  307  tele
+  308  clear
+  309  sudo snap install telegram-desktop
+  310  reboot
+  311  poweroff
+  312  power off
+  313  7002
+  314  sudo pacman -Syu
+  315  clear
+  316  exit
+  317  reboot
+  318  yay
+  319  clear
+  320  sudo pacman -Syu
+  321  clear
+  322  exit
+  323  yay firefox-developer-edition-i18n-ach
+  324  yay -S firefox-developer-edition-i18n-ach
+  325  firefox-developer-edition 
+  326  code .
+  327  pwd
+  328  clear
+  329  cd desktop
+  330  ls
+  331  cd Desktop/
+  332  CLEAR
+  333  clear
+  334  pwd
+  335  clear
+  336  code .
+  337  sudo pacman -Syu
+  338  clear
+  339  sudo pacman -Syu
+  340  clear
+  341  reboot
+  342  /bin/python "/home/miguel/Documents/IT Academy/Exercici1/imc.py"
+  343  clear
+  344  exit
+  345  python imc.py
+  346  exit
+  347  pwd
+  348  code .
+  349  code .
+  350  yay
+  351  clear
+  352  yay
+  353  clear
+  354  sudo pacman -Syu
+  355  clear
+  356  google-chrome-stable 
+  357  sudo pacman -Syu
+  358  clear
+  359  python esqueleto_tres.py 
+  360  python esqueleto_tres.py 
+  361  reboot
+  362  sudo reboot
+  363  [200~wget http://www.djangoproject.com/download/1.3.1/tarball/
+  364  wget http://www.djangoproject.com/download/1.3.1/tarball/
+  365  tar xzvf Django-1.3.1.tar.gz
+  366  clear
+  367  ls
+  368  ls
+  369  cd Downloads/
+  370  ls
+  371  cd ..
+  372  ls
+  373  clear
+  374  clear
+  375  cls
+  376  ls
+  377  wget http://www.djangoproject.com/download/1.3.1/tarball/
+  378  ls
+  379  ls
+  380  pip install Django==3.1.3
+  381  pip install Django
+  382  clear
+  383  django --version
+  384  clear
+  385  where python
+  386  find python3
+  387  clear
+  388  pwd
+  389  pwd
+  390  python3 --version
+  391  ssh root@192.168.0.27
+  392  reboot
+  393  clear
+  394  reboot
+  395  sudo reboot
+  396  sudo pacman install timeshift
+  397  sudo pacman -Syu timeshift
+  398  yay -S timeshift
+  399  clear
+  400  yay -S python-Django
+  401  yay -S python-django
+  402  clear
+  403  sudo pacman -S python-django
+  404  clear
+  405  pip --version
+  406  sudo pacman -S python-pip
+  407  clear
+  408  pip --version
+  409  clear
+  410  cd django_app
+  411  clear
+  412  mkdir -p /var/www && cd /var/www
+  413  sudo mkdir -p /var/www && cd /var/www
+  414  clear
+  415  django-admin startproject django_app
+  416  sudo django-admin startproject django_app
+  417  cd django_app/
+  418  ls
+  419  python3 manage.py migrate
+  420  clear
+  421  sudo python3 manage.py migrate
+  422  clear
+  423  sudo dnf install python3 python3-pip
+  424  dnf install python3 python3-pip
+  425  clear
+  426  django
+  427  django-admin
+  428  clear
+  429  django-admin --version
+  430  pip
+  431  clear
+  432  clear
+  433  ssh root@192.168.0.27
+  434  ip a
+  435  ssh root@192.168.0.27
+  436  ssh root@192.168.0.27
+  437  reboot
+  438  ssh root@192.168.0.27
+  439  ssh root@192.168.0.27
+  440  ssh-keygen -R 192.168.0.27
+  441  clear
+  442  ssh root@192.168.0.27
+  443  reboot
+  444  clear
+  445  ssh root@192.168.0.27
+  446  clear
+  447  ssh root@192.168.0.27
+  448  clear
+  449  ssh root@192.168.0.27
+  450  clear
+  451  ssh root@192.168.0.27
+  452  ssh root@192.168.0.27
+  453  exit
+  454  ifconfig
+  455  clear
+  456  django-admin -V
+  457  django-admin --version
+  458  clear
+  459  ssh root@192.168.0.28
+  460  sudo reboot
+  461  sudo pacman -Syu
+  462  clear
+  463  python -m virtualenv env
+  464  pip list
+  465  pip list | grep setup
+  466  clear
+  467  ls
+  468  ssh root@192.168.0.28
+  469  ssh root@192.168.0.28
+  470  ssh root@192.168.0.28
+  471  ssh root@192.168.0.28
+  472  pwd
+  473  clear
+  474  ssh root@192.168.0.28
+  475  sudo pacman -Syu
+  476  ckear
+  477  clear
+  478  yay
+  479  clear
+  480  ls
+  481  ls -a
+  482  ls
+  483  rm -R ViatgesIOC-EAF2
+  484  rm -R ViatgesIOC-EAF2\ \(copy\)/
+  485  sudo rm -R ViatgesIOC-EAF2\ \(copy\)/
+  486  ls
+  487  sudo rm -R Untitled\ Folder/
+  488  sudo rm -R viajes\ ioc/
+  489  ls
+  490  chmod 777 ViatgesIOC-EAF2
+  491  chmod -R 777 ViatgesIOC-EAF2
+  492  chmod -R 777 ViatgesIOC
+  493  sudo pacman -Syu
+  494  CLEAR
+  495  clear
+  496  sudo pacman -Syu
+  497  clear
+  498  git init
+  499  ls -la
+  500  clear
+  501  git add remote git status
+  502   git status
+  503  clear
+  504   git status
+  505  git add .
+  506  clear
+  507  ls
+  508  git status
+  509  clear
+  510  git status -S
+  511  git status -s
+  512  clear
+  513  cat .gitignore
+  514  cat .gitignore
+  515  clear
+  516  ls 
+  517  ls -la
+  518  git commit -m "este es el primer commit"
+  519  git status
+  520  clear
+  521  git --global 
+  522  git config --global user.name "Miguel Angel"
+  523  git config --global user.email ramnaimstar@gmail.com
+  524  git commit -m "primer commit"
+  525  git status
+  526  cat .gitignore
+  527  ls -la
+  528  git remote -v
+  529  clear
+  530  git remote add pb https://github.com/ramnaim/prueba.git
+  531  git fetch pb
+  532  ls
+  533  clear
+  534   git push origin master
+  535   git push . master
+  536  git status
+  537  clear
+  538  history >> history.txt
