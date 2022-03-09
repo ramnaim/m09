@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas</title>
+    <style>canvas {
+        background: #eee;
+    }</style>
+</head>
+<body>
+<canvas id="canvas" width="300" height="300">
+    El teu navegador no suporta l'element canvas
+</canvas>
+<script>
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+
+    ctx.beginPath();
+    ctx.rect(30, 95, 30, 120);
+    ctx.fillStyle = "#6900fe";
+    ctx.fill();
+    ctx.closePath();
+
+
+    ctx.beginPath();
+    ctx.rect(70, 105, 30, 95);
+    ctx.fillStyle = "#6900fe";
+    ctx.fill();
+    ctx.closePath();
+
+    ctx.beginPath();
+    ctx.arc(150, 150, 47, 0, Math.PI * 2, false);
+    ctx.fillStyle = "#fd0001";
+    ctx.fill();
+    ctx.closePath();
+
+    ctx.beginPath();
+    ctx.rect(200, 105, 30, 95);
+    ctx.fillStyle = "#fd0001";
+    ctx.fill();
+    ctx.closePath();
+
+    ctx.beginPath();
+    ctx.rect(240, 95, 30, 120);
+    ctx.fillStyle = "#fd0001";
+    ctx.fill();
+    ctx.closePath();
+</script>
+</body>
+</html>

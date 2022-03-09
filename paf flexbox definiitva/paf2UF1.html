@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        p {
+            margin: 10px;
+            color:black;
+        }
+
+        body {
+            height: 60vh;
+        }
+
+        .container {
+            display: flex;
+            width: 60%;
+            margin: 50px auto;
+            height: 100%;
+        }
+
+        header {
+            background-color: #008000;
+            height: 15%;
+        }
+
+        nav {
+            width: 20%;
+            background-color: #0000ff;
+        }
+
+        .container2 {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .container3 {
+            height: 70%;
+            display: flex;
+        }
+
+    
+
+        section {
+            width: 100%;
+            background-color:#ffff00;
+        }
+
+        footer {
+            background-color:#008000;
+            height: 15%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <p>
+                Navegacio
+            </p>
+        </nav>
+        <div class="container2">
+            <header class="item">
+                <p>
+                    capçalera
+                </p>
+            </header>
+            <div class="container3">
+                <section id="cuerpo" class="item">
+                    <p>
+                        contingut
+                    </p>
+                </section>
+            </div>
+            <footer class="item">
+                <p>Peu</p>
+            </footer>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            width: 40%;
+            margin: 50px auto;
+        }
+
+        .col {
+            text-align: center;
+            padding: 15px;
+            color: white;
+            width: 22%;
+            background-color: red;
+            border: 8px solid black;
+        }
+
+        .col:hover {
+            background-color: green;
+        }
+
+        @media screen and (max-width: 768px) {
+            body{
+                display: inline;
+                margin: 0 auto;
+            }
+
+            .col{
+                width: 80%;
+                margin: 20px auto;
+            }
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="col">Columna A</div>
+    <div class="col">Columna B</div>
+    <div class="col">Columna c</div>
+</body>
+
+</html>

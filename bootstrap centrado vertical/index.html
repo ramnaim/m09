@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body{
+            width: 50%;
+            margin: 20px auto;
+        }
+
+        header .col {
+            background-color: yellow;
+        }
+
+        .col1 {
+            background-color: green;
+        }
+
+        .col2 {
+            background-color: #e98af0;
+        }
+
+        .principal {
+            background-color: blue;
+        }
+
+        .medio {
+            color: white;
+        }
+
+        .pie {
+            color: white;
+            background-color: red;
+        }
+
+        hr{
+            background-color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <div class="row">
+                <div class="col">
+                    <p>
+                        Capçalera
+                    </p>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <div class="container medio">
+        <div class="row">
+            <div class="col-2 d-flex justify-content-center col1">
+                <nav class="w-100">
+                    <p class="m-3">Navegación</p>
+                </nav>
+            </div>
+
+            <div class="col-8 d-flex justify-content-center principal">
+                <main class="p-3">
+                    <section>
+                        <article>
+                            <h1>Contenido</h1>
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. A quisquam voluptates rem vero
+                                illum incidunt explicabo, vel hic eius molestias aperiam libero vitae id deserunt at
+                                dolores voluptatum alias quia molestiae aut necessitatibus quibusdam sit accusantium.
+                                Nihil facilis asperiores vitae reprehenderit? Repudiandae, tempora eligendi? Impedit,
+                                quibusdam enim! Ratione, labore molestias.
+                            </p>
+                        </article>
+                    </section>
+
+                    <hr>
+
+                    <section>
+                        <article>
+                            <h4>Test</h4>
+                            <p>Lorem, ipsum dolor.</p>
+                        </article>
+                    </section>
+                </main>
+            </div>
+
+            <div class="col-2 d-flex justify-content-center col2">
+                <aside class="w-100">
+                    <p class="m-3">Publicidad</p>
+                </aside>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container pie">
+            <div class="row">
+                <div class="col d-flex justify-content-center">
+                    <p class="m-3">Pie de página</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
